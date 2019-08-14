@@ -1,8 +1,9 @@
 # Simple task reminder made by Berat Çimen
  A simple reminder for computers. Doesn't need an internet connection.
  
- You can contact me via: bit.ly/BeratCimen
+ As always .exe file is in the "dist" folder.
  
+ You can contact me via: bit.ly/BeratCimen
  
  ----------------------------------------------------------------------
  Credits:
